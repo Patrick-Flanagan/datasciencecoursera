@@ -1,4 +1,4 @@
-## Hello World - my first foray into GitHub!!!!
+## Hello World - my first foray into GitHub!!!! As for the exercise see below:
 
 
 
